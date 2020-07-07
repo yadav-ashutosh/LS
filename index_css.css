@@ -93,3 +93,15 @@ div.sticky {
 {
   opacity: 0.6;
 }
+div .red{
+  border-radius: 10px;
+  width: 50%;
+  background: #d1d1e0;
+  transition-property: width;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s;
+}
+div .red:hover {
+  width: 100%;
+}
