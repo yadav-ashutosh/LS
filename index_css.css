@@ -95,7 +95,7 @@ div.sticky {
 }
 div .red{
   border-radius: 10px;
-  width: 50%;
+  width: 60%;
   background: #d1d1e0;
   transition-property: width;
   transition-duration: 2s;
